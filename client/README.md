@@ -1,0 +1,1 @@
+This a Responsive Law Firm front end website, it good in large size, medium size, small size, it is made with next.js tailwind css, typescript as well as regular css
